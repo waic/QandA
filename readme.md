@@ -16,7 +16,7 @@
 
 GitHubのアカウントを既にお持ちの方は、「[New Issue](https://github.com/waic/QandA/issues/new)」として質問を登録してください。Issueの作成の仕方は、「[Issue の作成](https://docs.github.com/ja/issues/tracking-your-work-with-issues/creating-an-issue)」を参照ください。
 
-GitHubのアカウントが作成可能な方は、[Join GitHub](https://github.com/signup)のページでアカウントを作成したうえで、GitHubのissuesに質問を登録してください。
+GitHubのアカウントが作成可能な方は、[Join GitHub](https://github.com/signup)のページでアカウントを作成したうえで、「[New Issue](https://github.com/waic/QandA/issues/new)」として質問を登録してください。
 
 アカウントの作成が難しい方は、以下手順にお進みください。
 
